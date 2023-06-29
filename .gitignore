@@ -2,3 +2,5 @@
 yourfolder/
 
 *.DS_Store
+
+*.rst
